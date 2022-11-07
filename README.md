@@ -8,7 +8,7 @@ Cassava iOS 测试安装包
 
 - 安装方式一（建议优先）：
 
-  https://cassavanetwork.github.io/willn1987/CassavaIPA/index.html
+  https://willn1987.github.io/CassavaIPA/index.html
 
 - 安装方式二：
 
