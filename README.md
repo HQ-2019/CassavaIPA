@@ -10,13 +10,13 @@ Cassava iOS 测试安装包
 
 - 安装方式一（建议优先）：
 
-  https://willn1987.github.io/CassavaIPA/index.html
+  https://HQ-2019.github.io/CassavaIPA/index.html
 
 - 安装方式二：
 
-  http://htmlpreview.github.io/?https://raw.githubusercontent.com/willn1987/CassavaIPA/main/index.html
+  http://htmlpreview.github.io/?https://raw.githubusercontent.com/HQ-2019/CassavaIPA/main/index.html
 
 - 安装方式三：
 
-  itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/willn1987/CassavaIPA/main/manifest.plist
+  itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/HQ-2019/CassavaIPA/main/manifest.plist
 
